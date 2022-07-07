@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: staubli_tx2_90_support
+    relative_path: urdf/tx2_90xl_macro1.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/staubli_tx2_90xl.srdf
+  CONFIG:
+    author_name: kames_sarangan
+    author_email: k_sarangan@apple.com
+    generated_timestamp: 1651697750

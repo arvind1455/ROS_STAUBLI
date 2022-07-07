@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: staubli_tx60_gazebo
+    relative_path: urdf/tx60l.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/staubli_tx60l_gazebo.srdf
+  CONFIG:
+    author_name: Kamesh
+    author_email: k_sarangan@apple.com
+    generated_timestamp: 1650254202
