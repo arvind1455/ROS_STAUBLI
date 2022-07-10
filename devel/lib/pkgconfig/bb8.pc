@@ -1,0 +1,8 @@
+prefix=/Users/kamesharvindsarangan/git/ROS_STAUBLI/devel
+
+Name: bb8
+Description: Description of bb8
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

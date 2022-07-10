@@ -1,0 +1,8 @@
+prefix=/Users/kamesharvindsarangan/git/ROS_STAUBLI/devel
+
+Name: staubli_tx2_60_support
+Description: Description of staubli_tx2_60_support
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
