@@ -1,8 +1,0 @@
-prefix=/Users/kamesharvindsarangan/git/ROS_STAUBLI/install
-
-Name: staubli_resources
-Description: Description of staubli_resources
-Version: 0.1.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

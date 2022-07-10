@@ -1,8 +1,0 @@
-prefix=/Users/kamesharvindsarangan/git/ROS_STAUBLI/install
-
-Name: moveit_staubli
-Description: Description of moveit_staubli
-Version: 0.3.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
